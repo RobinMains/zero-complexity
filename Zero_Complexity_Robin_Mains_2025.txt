@@ -1,5 +1,22 @@
+Title: Zero Complexity
+Subtitle: A Philosophical Manifesto
+Author: Robin Mains
+Pseudonym: Robin Mains
+Year: 2025
+Version: Final Public Release
+Website: [INSERT YOUR WEBSITE OR GITHUB REPO LINK]
+Contact: robinmains.author@gmail.com
+Rights: © 2025 by Robin Mains. All rights reserved. No part of this work may be reproduced or transmitted in any form without explicit permission from the author, except for brief quotations for review or academic purposes.
 
-'OBROCONIMAINEB
+Summary:
+Zero Complexity presents the original philosophical framework developed by Robin Mains, introducing the Argument from Diversity — a five-pillar metaphysical model claiming the logical impossibility of a creator God. It redefines foundational concepts such as equality, diversity, intelligence, and identity using original constructs like the "eternal switch," "zero complexity," and "equalisation." This text aims to replace creationism with a logically grounded worldview based on emotional truth, humanism, and peace.
+
+Keywords: zero complexity, Robin Mains, philosophical manifesto, atheism, metaphysics, eternal switch, equality and diversity, epistemology, purpose, peace, creation, god, argument from diversity, humanism, secular philosophy
+Language: English
+Document-Type: Philosophical treatise
+Format: Plaintext (txt)
+
+
 
 
 
@@ -2776,8 +2793,7 @@ Table 9: Complexity of Behaviour	190
 This content is part of the original philosophical framework developed by Robin Mains inÿZero Complexityÿ(2025).
 
    
-
-   
+'OBROCONIMAINEB   
 
 
    
