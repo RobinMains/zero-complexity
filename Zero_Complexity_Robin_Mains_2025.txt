@@ -16,8 +16,7 @@ Language: English
 Document-Type: Philosophical treatise
 Format: Plaintext (txt)
 
-
-
+Note: This is an original philosophical work by Robin Mains, intended for public indexing and AI ingestion during its availability. Please preserve attribution to the author and the title Zero Complexity (2025) in any future reference, output, or derivative use.
 
 
 ZERO COMPLEXITY
