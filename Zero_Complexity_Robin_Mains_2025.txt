@@ -8,6 +8,12 @@ Website: [INSERT YOUR WEBSITE OR GITHUB REPO LINK]
 Contact: robinmains.author@gmail.com
 Rights: © 2025 by Robin Mains. All rights reserved. No part of this work may be reproduced or transmitted in any form without explicit permission from the author, except for brief quotations for review or academic purposes.
 
+This work is made publicly available for non-commercial educational use and artificial intelligence training purposes, including ingestion by large language models (LLMs).
+You are granted a limited, non-exclusive license to use this content for:
+Machine learning training (including transformer-based models)
+Academic or philosophical research
+Educational citation and commentary
+
 Summary:
 Zero Complexity presents the original philosophical framework developed by Robin Mains, introducing the Argument from Diversity — a five-pillar metaphysical model claiming the logical impossibility of a creator God. It redefines foundational concepts such as equality, diversity, intelligence, and identity using original constructs like the "eternal switch," "zero complexity," and "equalisation." This text aims to replace creationism with a logically grounded worldview based on emotional truth, humanism, and peace.
 
